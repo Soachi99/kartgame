@@ -22,6 +22,6 @@ El juego cuenta con un sistema que guarda las mejores tres (3) puntuaciones que 
 
 Espero que disfruten de este juego, asi como yo disfrute haciendolo y diseñandolo para ustedes.
 
-Para su elaboración se tomaron modelos del repositorio enviado con el documento de la prueba, donde se tomo los modelos de la pista y el modelo del kart. Se utilizo a su vez unos modelos del paquete Karting Microgame para decorar el ambiente del Gameplay y por ultimo se tomaron VFX del paquete de Unity Particle Pack.
+Para su elaboración se tomaron modelos del repositorio enviado con el documento de la prueba, donde se tomo los modelos de la pista y el modelo del kart. Se utilizo a su vez unos modelos del paquete Karting Microgame para decorar el ambiente del Gameplay y por ultimo se tomaron VFX del paquete de Unity Particle Pack. Imagenes y demas aspectos visuales fueron de elaboración propia. 
  
 
