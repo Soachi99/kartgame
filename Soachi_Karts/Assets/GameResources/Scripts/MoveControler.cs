@@ -21,7 +21,7 @@ public class MoveControler : MonoBehaviour
     private bool desorientacion;
     private float timeOrientacion;
     // Start
-    private bool start;
+    public static bool start;
     private float timeStart;
     public Text textStart;
     // Score
@@ -130,7 +130,7 @@ public class MoveControler : MonoBehaviour
         if (vfx)
         {
             timeVfx += Time.deltaTime;
-            if (timeVfx>= 1.5f)
+            if (timeVfx>= 2)
             {
                 vfx = false;
                 vfxTime.SetActive(false);
