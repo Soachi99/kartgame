@@ -6,11 +6,15 @@ Juego de carreras con obstaculos, powerups y limite de tiempo que tiene como obj
 
 ## Aspectos principales 
 
-El juego cuenta con cinco (5) escenas que cumplen con los requisitos de la prueba, estas son: MainMenu, Gameplay, Pantalla de carga, Pantalla de Ganador y Pantalla de Perdedor. En el menu principal encontras el boton para jugar, el cual te redigira al juego, donde encontras un kart, el cual tienes que manejar con tu teclado, esquivando los obstaculos y obteniendo los powerups disponibles para culminar la pista en el menor tiempo posible. Para eso tendras 15 segundos o sino, perderas.
+El juego cuenta con cinco (5) escenas que cumplen con los requisitos de la prueba, estas son: MainMenu, Gameplay, Pantalla de carga, Pantalla de Ganador y Pantalla de Perdedor. En el menu principal encontras el boton para jugar, el cual te redigira al juego, donde encontras un kart, el cual tienes que manejar con tu teclado, esquivando los obstaculos y obteniendo los powerups disponibles para culminar la pista en el menor tiempo posible. Para eso tendras 15 segundos o sino, perderas. 
 
 ## Powerups y Obstaculos
 
 Soachi kart presenta dos (2) powerups, un Turbo que te ayudara a pasar más rapido la pista y una capsula de tiempo, con la cual puedes sumar algunos segundos mas a tu recorrido antes de que se acabe el tiempo. Ademas de eso, se tiene un obstaculo principal el cual es la bola del demonio, la cual te hace perder totalmente la orientación de tu kart. Durante tu recorrido encontraras rampas que te permitiran dar unos pequeños saltos que pueden con la combinación del turbo agilizar tu recorrido.
+
+## Skins
+
+Esta versión del juego presenta el selector de skins para tu personaje y el kart que llevas para cruzar la pista, simplemente se cambia en la pantalla antes de comenzar la carrera dando click izquiero o derecho segun corresponda
 
 ## Mejor Marca
 
