@@ -2,7 +2,7 @@
 
 # Soachi Karts
 
-Juego de carreras con obstaculos, powerups y límite de tiempo que tiene como finalidad ser presentado como el desarrollo de la prueba técnica para GETACLUB.
+Juego de carreras con obstaculos, powerups y límite de tiempo, diviertete en un juego basico y de practica hecho en Unity.
 
 ## Aspectos principales 
 
